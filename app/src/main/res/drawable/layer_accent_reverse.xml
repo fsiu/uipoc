@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- <item android:drawable="@color/colorTintDark" /> -->
+    <item android:drawable="@color/colorMaggieDark" />
+    <item android:drawable="@color/colorMaggie" />
+</layer-list>

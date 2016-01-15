@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<transition xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:drawable="@color/colorNewYorkPink" />
+    <item android:drawable="@color/colorRadicalRedDark" />
+
+    <!--
+    <item android:drawable="@drawable/layer_accent" />
+    <item android:drawable="@drawable/layer_accent_reverse" />
+    -->
+
+</transition>
