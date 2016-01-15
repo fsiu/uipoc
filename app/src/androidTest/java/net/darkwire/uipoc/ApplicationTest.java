@@ -1,4 +1,4 @@
-package com.eharmony.uipoc;
+package net.darkwire.uipoc;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

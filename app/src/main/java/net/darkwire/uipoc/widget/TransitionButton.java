@@ -1,4 +1,4 @@
-package com.eharmony.uipoc.widget;
+package net.darkwire.uipoc.widget;
 
 import android.content.Context;
 import android.graphics.drawable.Drawable;
